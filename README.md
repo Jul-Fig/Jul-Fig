@@ -1,9 +1,9 @@
 <h1 align="center">Hola soy Julian</h1>
 <h2 align="center">Soy un desarrollador backend con experiencia en HTML, CSS, Tailwind CSS, y JavaScript, y con conocimientos en React, Node.js, Express, SQL, y AWS. Mejoro mis habilidades y conocimientos a través de proyectos personales.</h2>
 
-- 🌱 Estoy estudiando **Analisis y desarrollo de software**
+- 🌱  **Analisis y desarrollo de software**
 
-- 💬 Preguntame sobre **HTML, CSS, Javascript**
+- 💬  **Java, React, AWS, Express**
 
 - ⚡ Dato curioso **He trabajado en diferentes sectores, desde servicio al cliente como en reforestación y manejo de máquinas, así que conozco el trabajo en equipo, resolución de problemas y la adaptibilidad a los diferentes entornos**
 
