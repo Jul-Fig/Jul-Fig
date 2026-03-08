@@ -100,10 +100,7 @@ Aplicación para acortar, gestionar y rastrear enlaces con panel de administraci
 
 ## `$ stats --github`
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jul-Fig&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e0e0e0&text_color=888888&icon_color=ffffff&border_color=333333&hide_border=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jul-Fig&layout=compact&theme=dark&bg_color=0d0d0d&title_color=e0e0e0&text_color=888888&border_color=333333&hide_border=false"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jul-Fig&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=888888&border=333333&stroke=333333" alt="streak"/>
