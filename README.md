@@ -75,7 +75,7 @@ Sistema fullstack para gestión y reserva de viajes. Arquitectura cliente-servid
 - `Spring Boot` — API REST backend
 - `MySQL` — base de datos relacional
 
-[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jul-Fig/Acortador-de-links)
+[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jul-Fig/TravelGo)
 
 </td>
 <td width="50%" valign="top">
@@ -90,7 +90,7 @@ Aplicación para acortar, gestionar y rastrear enlaces con panel de administraci
 - `Express` — servidor backend
 - `MongoDB` — base de datos NoSQL
 
-[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jul-Fig/TravelGo)
+[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jul-Fig/Acortador-de-links)
 
 </td>
 </tr>
