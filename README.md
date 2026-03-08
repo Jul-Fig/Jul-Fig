@@ -1,17 +1,133 @@
-<h1 align="center">Hola soy Julian</h1>
-<h2 align="center">Soy un desarrollador backend con experiencia en HTML, CSS, Tailwind CSS, y JavaScript, y con conocimientos en React, Node.js, Express, SQL, y AWS. Mejoro mis habilidades y conocimientos a través de proyectos personales.</h2>
+<!-- BANNER ANIMADO -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Julian%20Figueredo&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Backend%20Developer&descSize=20&descAlignY=58&descColor=888888&animation=fadeIn" width="100%"/>
+</div>
 
-- 🌱  **Analisis y desarrollo de software**
+<br/>
 
-- 💬  **Java, React, AWS, Express**
+<!-- TÍTULO Y ESTADO -->
+<div align="center">
 
-- ⚡ Dato curioso **He trabajado en diferentes sectores, desde servicio al cliente como en reforestación y manejo de máquinas, así que conozco el trabajo en equipo, resolución de problemas y la adaptibilidad a los diferentes entornos**
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  BACKEND DEVELOPER  //  OPEN TO WORK
+  Java · Spring · Node.js · Express · SQL
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-<h3 align="left">Contáctame:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/figueredo-julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="figueredo-julian" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## `$ whoami`
+
+Desarrollador backend con formación en **Análisis y Desarrollo de Software**, enfocado en construir sistemas robustos, escalables y bien estructurados. Me muevo con facilidad entre el diseño de APIs, la gestión de bases de datos y el despliegue en la nube.
+
+Lo que me diferencia: vengo de entornos distintos — atención al cliente, reforestación, operación de maquinaria — y cada uno me dejó algo real: **trabajo en equipo bajo presión, resolución de problemas en campo y adaptabilidad**. Aplico eso mismo al código.
+
+> *"Un sistema bien diseñado no solo funciona — resiste."*
+
+---
+
+## `$ tech --stack`
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🗄️ Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### ☁️ DevOps & Herramientas
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## `$ projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 TravelGo
+**Plataforma de viajes y reservas**
+
+Sistema fullstack para gestión y reserva de viajes. Arquitectura cliente-servidor con autenticación, gestión de destinos y panel de reservas.
+
+**Stack:**
+- `React` — interfaz de usuario
+- `Spring Boot` — API REST backend
+- `MySQL` — base de datos relacional
+
+[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jul-Fig)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Acortador de Links
+**Servicio de gestión de URLs**
+
+Aplicación para acortar, gestionar y rastrear enlaces con panel de administración y métricas de uso.
+
+**Stack:**
+- `Angular` — interfaz de usuario
+- `Express` — servidor backend
+- `MongoDB` — base de datos NoSQL
+
+[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jul-Fig)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ stats --github`
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jul-Fig&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e0e0e0&text_color=888888&icon_color=ffffff&border_color=333333&hide_border=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jul-Fig&layout=compact&theme=dark&bg_color=0d0d0d&title_color=e0e0e0&text_color=888888&border_color=333333&hide_border=false"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jul-Fig&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=888888&border=333333&stroke=333333" alt="streak"/>
+</div>
+
+---
+
+## `$ contact --open`
+
+<div align="center">
+
+| Canal | Link |
+|-------|------|
+| 💼 LinkedIn | [linkedin.com/in/figueredo-julian](https://linkedin.com/in/figueredo-julian) |
+| 🐙 GitHub | [github.com/Jul-Fig](https://github.com/Jul-Fig) |
+| 🌐 Portafolio | *Próximamente* |
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>⚡ Disponible para nuevas oportunidades · Backend Developer · Colombia</sub>
+</div>
