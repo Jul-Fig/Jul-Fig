@@ -117,10 +117,6 @@ Aplicación para acortar, gestionar y rastrear enlaces con panel de administraci
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jul-Fig&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=888888&border=333333&stroke=333333" alt="streak"/>
-</div>
-
 ---
 
 ## `$ contact --open`
