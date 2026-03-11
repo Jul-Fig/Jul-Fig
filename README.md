@@ -11,8 +11,8 @@
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-  BACKEND DEVELOPER  //  OPEN TO WORK
-  Java · Spring · Node.js · Express · SQL
+  FULL-STACK DEVELOPER  //  OPEN TO WORK
+  Java · Spring · Node.js · Express · SQL · React · Angular 
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
@@ -23,11 +23,23 @@
 
 ## `$ whoami`
 
-Desarrollador backend con formación en **Análisis y Desarrollo de Software**, enfocado en construir sistemas robustos, escalables y bien estructurados. Me muevo con facilidad entre el diseño de APIs, la gestión de bases de datos y el despliegue en la nube.
+Java • Spring Boot • Node.js • Angular • React
 
-Lo que me diferencia: vengo de entornos distintos — atención al cliente, reforestación, operación de maquinaria — y cada uno me dejó algo real: **trabajo en equipo bajo presión, resolución de problemas en campo y adaptabilidad**. Aplico eso mismo al código.
+Construyo APIs, sistemas escalables y aplicaciones full-stack con enfoque en arquitectura, bases de datos, performance y seguridad.
 
-> *"Un sistema bien diseñado no solo funciona — resiste."*
+Tecnologías principales
+Java | Spring Boot | Node.js | Angular | React
+MySQL | PostgreSQL | AWS
+
+Proyecto destacado
+TravelGo — Plataforma de viajes con backend funcional, APIs REST y gestión de datos.
+
+Cómo trabajo
+Documentación → pruebas pequeñas → análisis de código → solución del problema.
+
+Intereses técnicos
+Arquitectura de software • Inteligencia Artificial • Seguridad
+
 
 ---
 
