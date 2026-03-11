@@ -1,6 +1,6 @@
 <!-- BANNER ANIMADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Julian%20Figueredo&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Backend%20Developer&descSize=20&descAlignY=58&descColor=888888&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Julian%20Figueredo&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=888888&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
