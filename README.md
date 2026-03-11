@@ -28,7 +28,7 @@ Java • Spring Boot • Node.js • Angular • React
 Construyo APIs, sistemas escalables y aplicaciones full-stack con enfoque en arquitectura, bases de datos, performance y seguridad.
 
 Tecnologías principales
-Java | Spring Boot | Node.js | Angular | React
+Java | Spring Boot | Node.js | Angular | React |
 MySQL | PostgreSQL | AWS
 
 Proyecto destacado
