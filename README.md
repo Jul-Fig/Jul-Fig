@@ -139,7 +139,7 @@ Aplicación para acortar, gestionar y rastrear enlaces con panel de administraci
 |-------|------|
 | 💼 LinkedIn | [linkedin.com/in/figueredo-julian](https://linkedin.com/in/figueredo-julian) |
 | 🐙 GitHub | [github.com/Jul-Fig](https://github.com/Jul-Fig) |
-| 🌐 Portafolio | (https://julianfig-dev.netlify.app/) |
+| 🌐 Portafolio | https://julianfig-dev.netlify.app/ |
 
 </div>
 
